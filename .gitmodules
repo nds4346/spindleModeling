@@ -1,0 +1,6 @@
+[submodule "lib/spindle"]
+	path = lib/spindle
+	url = https://github.com/kylepblum/spindle.git
+[submodule "lib/Mus2Spindle"]
+	path = lib/Mus2Spindle
+	url = https://github.com/kylepblum/Mus2Spindle.git
